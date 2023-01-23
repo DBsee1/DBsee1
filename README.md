@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominic Bassey</h1>
 <h3 align="center">A passionate software Dev from Nigeria</h3>
 
-<img align = "right" alt = "coding" width = "400" src = " https://www.shutterstock.com/image-vector/motion-designer-animator-working-on-600w-1770225452.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbsee1&label=Profile%20views&color=0e75b6&style=flat" alt="dbsee1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbsee1" alt="dbsee1" /></a> </p>
